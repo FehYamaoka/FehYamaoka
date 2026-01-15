@@ -1,4 +1,4 @@
-<table>
+<table border="0">
   <tr>
     <td width="60%">
       <h1>Olá! Eu sou o Felipe Yamaoka 👋</h1>
