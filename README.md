@@ -1,17 +1,15 @@
-<table border="0">
-  <tr>
-   <td width="60%" style="border: none;">
-      <h1>Olá! Eu sou o Felipe Yamaoka 👋</h1>
-      <h3>Software Engineer | FullStack | AI & Infrastructure</h3>
-      <p>
-        Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
-      </p>
-    </td>
-    <td width="40%" style="border: none;">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="100%">
-    </td>
-  </tr>
-</table>
+# Olá! Eu sou o Felipe Yamaoka 👋
+### Software Engineer | FullStack | AI & Infrastructure
+
+<p align="left"> 
+  Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
+</p>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
+
+![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
+
+## 📖 Sobre mim
 
 ![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
 
@@ -88,16 +86,6 @@
 ![Event-Driven](https://img.shields.io/badge/-Event--Driven-333333?style=flat)
 ![TDD](https://img.shields.io/badge/-TDD-333333?style=flat)
 <br/>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FehYamaoka&show_icons=true&theme=tokyonight&count_private=true" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehYamaoka&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
 
 ---
 
