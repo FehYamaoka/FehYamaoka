@@ -7,7 +7,11 @@
   Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
 </p>
 
-![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed" />
+  <img src="https://img.shields.io/github/followers/FehYamaoka?style=flat&color=006bed" />
+  <img src="https://img.shields.io/github/stars/FehYamaoka?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=006bed" />
+</p>
 
 ## 🚀 Sobre mim
 
