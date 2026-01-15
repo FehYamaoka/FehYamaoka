@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 # Olá! Eu sou o Felipe Yamaoka 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
+
 ### Software Engineer | FullStack | AI & Infrastructure
 
 <p align="left"> 
