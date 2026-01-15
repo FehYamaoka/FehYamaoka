@@ -1,7 +1,7 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 # Olá! Eu sou o Felipe Yamaoka 👋
 ### Software Engineer | FullStack | AI & Infrastructure
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="380px" align="right">
 
 <p align="left"> 
   Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
@@ -9,11 +9,11 @@
 
 ![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
 
-## Sobre mim
+## 🚀 Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software resilientes.
-- 🎓 Estudando **Gestão da Tecnologia da Informação** na **FATEC**.
-- 💼 Trabalhando como **Full Stack Developer** focado em **Node.js, NestJS e React**.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **FATEC**.
+- 💼 Trabalhando como **Full Stack Developer** focado em **Node.js, NestJS, React e React Native**.
 - 🌱 Aprendendo mais sobre **Go, Terraform e Service Mesh (Istio)**.
 
 ---
@@ -42,6 +42,7 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Go](https://img.shields.io/badge/-Go%20(Golang)-333333?style=flat&logo=go)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![tRPC](https://img.shields.io/badge/-tRPC-333333?style=flat&logo=trpc)
