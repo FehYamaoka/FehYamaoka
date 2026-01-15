@@ -1,11 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-# Olá! Eu sou o Felipe Yamaoka 👋
-### Software Developer | Engenheiro de Software
-
-<p align="left"> 
-  Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Olá! Eu sou o Felipe Yamaoka 👋</h1>
+      <h3>Software Engineer | FullStack | AI & Infrastructure</h3>
+      <p>
+        Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="100%">
+    </td>
+  </tr>
+</table>
 
 ![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
 
@@ -84,6 +90,16 @@
 <br/>
 
 ---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FehYamaoka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehYamaoka&layout=compact&theme=tokyonight&langs_count=8" />
+</p>
+
+---
+
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Felipe%20Yamaoka-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipeyamaoka/)
