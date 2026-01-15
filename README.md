@@ -20,8 +20,8 @@
 
 ## 🛠️ Minhas Skills
 
-**🤖 AI & DATA**
-![RAG](https://img.shields.io/badge/-RAG-333333?style=flat)
+### 🤖 AI & DATA
+![RAG](https://img.shields.io/badge/-RAG%20(Retrieval--Augmented%20Generation)-333333?style=flat)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-333333?style=flat&logo=qdrant)
 ![pgvector](https://img.shields.io/badge/-pgvector-333333?style=flat&logo=postgresql)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-333333?style=flat)
@@ -30,25 +30,28 @@
 ![Claude](https://img.shields.io/badge/-Claude-333333?style=flat&logo=anthropic)
 ![GPT-4](https://img.shields.io/badge/-GPT--4-333333?style=flat&logo=openai)
 ![Embeddings](https://img.shields.io/badge/-Embeddings-333333?style=flat)
-![Chunking](https://img.shields.io/badge/-Document%20Chunking-333333?style=flat)
+![Document Chunking](https://img.shields.io/badge/-Document%20Chunking-333333?style=flat)
 ![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-333333?style=flat)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-333333?style=flat)
 
-**🚀 Language & Frameworks**
+---
+
+### 🚀 Language & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
+![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Fastify](https://img.shields.io/badge/-Fastify-333333?style=flat&logo=fastify)
 ![Go](https://img.shields.io/badge/-Go%20(Golang)-333333?style=flat&logo=go)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
+![ORM](https://img.shields.io/badge/-ORM-333333?style=flat)
 ![tRPC](https://img.shields.io/badge/-tRPC-333333?style=flat&logo=trpc)
-![gRPC](https://img.shields.io/badge/-gRPC-333333?style=flat&logo=grpc)
 
-**🐹 Go Ecosystem (Testing & Labs)**
+### 🐹 Go Ecosystem (Testing & Labs)
 ![Go-Chi](https://img.shields.io/badge/-Go--Chi-333333?style=flat)
 ![Gorm](https://img.shields.io/badge/-Gorm-333333?style=flat)
 ![Viper](https://img.shields.io/badge/-Viper-333333?style=flat)
@@ -56,32 +59,37 @@
 ![JWTAuth](https://img.shields.io/badge/-JWTAuth-333333?style=flat)
 ![Testify](https://img.shields.io/badge/-Testify-333333?style=flat)
 
-**💾 Data & Infrastructure**
+### 💾 Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-333333?style=flat&logo=elasticsearch)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow)
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-333333?style=flat&logo=apache-airflow)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-333333?style=flat)
+![gRPC](https://img.shields.io/badge/-gRPC-333333?style=flat&logo=grpc)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=flat)
 
-**☁️ Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS%20(Lambda%20ECS%20S3%20RDS)-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS%20(Lambda%20ECS%20S3%20RDS%20CloudWatch)-333333?style=flat&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions)
-![Observability](https://img.shields.io/badge/-Open%20Telemetry-333333?style=flat&logo=opentelemetry)
-![ELK](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat&logo=elasticstack)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-333333?style=flat&logo=opentelemetry)
+![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-333333?style=flat&logo=elasticstack)
 
-**📐 Architecture & Practices**
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-333333?style=flat)
-![DDD](https://img.shields.io/badge/-DDD-333333?style=flat)
-![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat)
-![SOLID](https://img.shields.io/badge/-SOLID-333333?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat)
-![Event-Driven](https://img.shields.io/badge/-Event--Driven-333333?style=flat)
+### 🧪 Testing & Practices
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-333333?style=flat)
 ![TDD](https://img.shields.io/badge/-TDD-333333?style=flat)
+![TDD](https://img.shields.io/badge/-TDD-333333?style=flat)
+![Agile / Scrum](https://img.shields.io/badge/-Agile%20%2F%20Scrum-333333?style=flat)
+![Microservices](https://img.shields.io/badge/-Microservices-333333?style=flat)
+![Event-Driven Architecture](https://img.shields.io/badge/-Event--Driven%20Architecture-333333?style=flat)
+![Technical Leadership](https://img.shields.io/badge/-Technical%20Leadership-333333?style=flat)
 <br/>
 
 ---
