@@ -1,7 +1,7 @@
 # Olá! Eu sou o Felipe Yamaoka 👋
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="380px" max-width="380px" width="380px" align="right">
 
-### Software Engineer | FullStack | AI & Infrastructure
+### Software Engineer | FullStack
 
 <p align="left"> 
   Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
