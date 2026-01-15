@@ -4,7 +4,7 @@
 ### Software Developer | Engenheiro de Software
 
 <p align="left"> 
-  Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis e de alta performance. Tenho forte domínio no ecossistema JavaScript, arquitetura de microsserviços e sistemas orientados a eventos.
+  Sou um desenvolvedor Full Stack com 5 anos de experiência, focado em construir aplicações escaláveis onde a eficiência é prioridade. Minha expertise reside em otimizar o consumo de recursos através da escolha estratégica de estruturas de dados, reduzindo complexidade algorítmica (\(O(n)\) para \(O(1)\)) e minimizando o rastro de memória. Especialista em ecossistema JavaScript, arquitetura de microsserviços e sistemas de alta disponibilidade.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=FehYamaoka&color=006bed)
@@ -16,7 +16,7 @@
 - 💼 Trabalhando como **Full Stack Developer** focado em **Node.js, NestJS e React**.
 - 🌱 Aprendendo mais sobre **Go, Terraform e Service Mesh (Istio)**.
 
----
+<br/>
 
 ## Minhas Skills
 
@@ -57,12 +57,6 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
 
 <br/>
-
-<a href="https://github.com/FehYamaoka" title="Perfil do Felipe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FehYamaoka&theme=tokyonight&show_icons=true" />
-</a>
-
----
 
 ## Onde me encontrar
 
